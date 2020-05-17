@@ -9,6 +9,15 @@ Kick off your saas project with this landing page starter template. Built off th
 * SEO optimized
 * Sitemap plugin
 * Offline plugin / PWA out of the box
+* Fast
+  
+<h2>
+  Performance Audit
+</h2>
+<br />
+    
+![audit-screenshot](https://github.com/btahir/gatsby-landing-page-starter/blob/master/src/assets/audit.png)
+
 
 All the beautiful illustrations are from https://undraw.co/ and https://pixabay.com/.
 
