@@ -3,6 +3,8 @@
   Gatsby Landing Page Starter
 </h1>
 
+Live Demo: https://gatsby-landing-page-starter.netlify.app/
+
 Kick off your saas project with this landing page starter template. Built off the main Gatsby starter, it has all the basic Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 * Responsive layout
