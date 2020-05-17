@@ -12,6 +12,10 @@ Gratefully taken from this amazing repo: https://github.com/ovidiumihaibelciug/g
     @media only screen and (max-width : 640px) { @content; }
   }  
 
+  @if $value == 'from-phone-md' {
+    @media only screen and (min-width : 640px) { @content; }
+  }    
+
   @if $value == 'phone' {
     @media only screen and (max-width : 750px) { @content; }
   }
