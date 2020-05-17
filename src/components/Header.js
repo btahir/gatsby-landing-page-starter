@@ -1,7 +1,7 @@
 import { Link } from "gatsby";
 import PropTypes from "prop-types";
 import React, { useState } from 'react';
-import Backdrop from './backdrop';
+import Backdrop from './BackdropSection';
 
 const Header = ({ siteTitle }) => {
   const [isOpen, setIsOpen] = useState(false);
