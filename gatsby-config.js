@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `NeumNotes`,
-    description: `The Simplest Notes App.`,
+    title: `Landing`,
+    description: `Clean and modern landing page starter template for your next saas project launch.`,
     siteUrl: `https://www.gatsby-landing-page-starter.com`,
     author: `@btahir`,
   },
