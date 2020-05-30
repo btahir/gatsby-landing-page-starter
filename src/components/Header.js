@@ -34,9 +34,9 @@ const Header = ({ siteTitle }) => {
           </div>
           <ul className={navClasses}>
             <li className={navItemClasses}><a href="#">About</a></li>
-            <li className={navItemClasses}><a href="#">Pricing</a></li>
-            <li className={navItemClasses}><a href="#">Login</a></li>
-            <li className={`${navItemClasses} nav-item-bold`} ><a href="#">Sign Up</a></li>
+            <li className={navItemClasses}><a href="#">FAQ</a></li>
+            <li className={navItemClasses}><a href="#">Coffee</a></li>
+            <li className={`${navItemClasses} nav-item-bold`} ><Link to='/notes'>My Notes</Link></li>
           </ul>
           <div className={burgerClass} onClick={toggle}>
             <div className="burger-line-1"></div>
